@@ -1,0 +1,8 @@
+{
+  "@id": "gitmark:bb923434072df80e7d3b6cbaf3176cba7ff7b15159f6ad40bf1e41f039c161bc:0",
+  "genesis": "gitmark:bb923434072df80e7d3b6cbaf3176cba7ff7b15159f6ad40bf1e41f039c161bc:0",
+  "nick": "melbot_20220723",
+  "package": "./package.json",
+  "repository": "./",
+  "pubkey": "021f40a7f555daf84e19512aa8cb2549a754ab3430c56cd0983f6ab80ce0c154ec"
+}
